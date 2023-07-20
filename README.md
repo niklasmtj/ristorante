@@ -71,3 +71,4 @@ Now give it a try, and [order some :pizza:](https://github.com/stefanbuck/ristor
 1. [@terlar](https://github.com/terlar) orders 5 Regular Veg Tikka pizza with Green Pepper
 1. [@detri1](https://github.com/detri1) orders 1 Small Veg Tikka pizza with Tomato
 1. [@niklasmtj](https://github.com/niklasmtj) orders 1 Small Veg Tikka pizza with Tomato
+1. [@scottrigby](https://github.com/scottrigby) orders 100 Large Hawaiian pizza with Green Pepper
